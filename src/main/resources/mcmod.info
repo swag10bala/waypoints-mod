@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Waypoints 1.8.9",
+    "description": "Client-side waypoints with sharing, labels, and player heads.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "swag10bala"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
